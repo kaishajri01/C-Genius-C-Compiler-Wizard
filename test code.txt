@@ -1,0 +1,99 @@
+
+##ARRAY$
+##LOOP$
+
+Programme Acad
+{
+
+CONST   
+STRING :: S="mehdi" // S1="jhfgdfhgf"$
+STRING :: Achraf="khitermohamed3545"$
+STRING :: Blabla = "bla"$
+CHAR :: C='c' // C1='g'$
+CHAR :: Space='j'$
+
+VAR 
+INTEGER :: X1$
+INTEGER :: X2 // X3 $
+INTEGER :: X7$
+INTEGER :: Tab[3]$
+INTEGER :: TabNegatif[-4]$
+REAL :: Te_st$
+REAL :: Pi$
+STRING :: Shelby$
+STRING :: Fu$
+STRING :: TabString[5]$
+CHAR :: Character$
+CHAR :: TabChar[1]$
+CHAR :: Aertyuiop12345$
+/* ghghgjl */
+X6:=66$
+X7:= 77$
+X7:=X1$
+Character:='g'$
+Shelby:="tomass"$
+X2:=3$
+X7:=Tab[3]$
+X7:=Tab[X2]$
+Tab[X2]:=X7$
+X2:=1$
+TabChar[X2]:='k'$
+TabString[X2]:="hah_ah"$
+Pi:= 3.14$
+
+X2:= X7 + X3$
+X2:= (X7) + 444$
+X2:= X7/(555)$
+X2:= 5 + 3 - X3 / X6 *3$
+TabNegatif[0]:= 999$
+Pi:= 2.78*(567)$
+X2:= TabNegatif[-1]$
+X2:= X3 - TabNegatif[0]$
+READ(";"|@X7)$
+READ("%"|@Pi)$
+READ("?"|@Shelby)$
+READ("&"|@Character)$
+READ("&"|@Pi)$
+
+
+WRITE(";"|Shelby)$
+WRITE("%"|Te_st)$
+WRITE("?"|Shelby)$
+WRITE("&&"|Character//Character)$
+WRITE("fghfgh_&_fgfg_?_dsgdfg"|Character//Shelby)$
+WRITE("fghfgh&fgfg_?_dsgdfg_;"|Character//Shelby//X7)$
+WRITE("fghfgh_&_fgfg_?_dsgdfg"|Shelby // Character)$
+
+
+
+A:=(A)+(B)+(C)$
+
+While (A - 2 INF A2[3])
+{
+WRITE ("comment_?" | Fu)$
+WRITE ("hello_%_comment_" | Ty)$
+}$
+/* ghghg
+fghfgh
+//
+*
+
+
+/////
+****
+jl
+ggg */
+
+EXECUT I:= 2+(4)$ IF (J EG 6) END_IF$
+
+EXECUT READ(";"|@TG6)$ IF (T[J] DIFF Ti)
+ELSE 
+EXECUT
+X:=A*(2.2)$
+END_IF$
+
+TabString[X2]:="hah_,!ah"$
+While (A - 2 INF A2[3]){}$
+Mehdi2021:= 1$
+/* la fin */
+}
